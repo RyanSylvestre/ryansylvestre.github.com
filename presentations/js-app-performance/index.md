@@ -87,25 +87,25 @@
 
 # Configuration
 
-![DynaTrace Configuration](images/DT-Config.jpg)
+![DynaTrace Configuration](images/DT-Config.JPG)
 
 !SLIDE
 
 # Navigation
 
-![DynaTrace Sidebar](images/DT-FileMenu.jpg)
+![DynaTrace Sidebar](images/DT-FileMenu.JPG)
 
 !SLIDE
 
 # Pure Paths
 
-![Pure Paths](images/DT-Main.jpg)
+![Pure Paths](images/DT-Main.JPG)
 
 !SLIDE
 
 # Activities
 
-![Activities](images/DT-Activities.jpg)
+![Activities](images/DT-Activities.JPG)
 
 !SLIDE left
 
