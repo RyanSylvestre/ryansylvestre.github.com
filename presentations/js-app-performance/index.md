@@ -111,7 +111,7 @@
 
 # Great now what?
 #### What to look out for
-* Have goals and tackle those sections
+* Have goals and tackle those areas
 * Sort by JS and start investigating
 * Dig into noticable areas from hands on testing
 * Run multiple tests and compare
@@ -148,7 +148,7 @@
 
 * Limit DOM touches
 * Know when and where to use jQuery
-* calls such as .empty() can be very expensive
+* Calls such as .empty() can be very expensive
 
 !SLIDE left
 
@@ -156,6 +156,7 @@
 
 * The code is necessary
 * Perhaps its called often / in a loop
+* Exhausted other means of improving the outer activity
 
 !SLIDE left
 
@@ -178,3 +179,7 @@
 
 # Remember
 #### Always performance tweak responsibly
+
+!SLIDE
+
+# Questions?
