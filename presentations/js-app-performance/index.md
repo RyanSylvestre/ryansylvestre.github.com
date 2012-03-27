@@ -37,7 +37,7 @@
 # What is this about?
 
 * The What When and How to test your js application
-* Basic overview of Dynatrace
+* Basic overview of DynaTrace
 
 !SLIDE left
 
@@ -61,14 +61,14 @@
 # Available tools
 
 * Built in profiliers (Chrome/IE)
-* Dynatrace (Firefox/IE)
+* DynaTrace (Firefox/IE)
 * Firebug (Firefox)
 
 !SLIDE left
 
-# Dynatrace
+# DynaTrace
 
-* [http://ajax.dynatrace.com/ajax/en/](http://ajax.dynatrace.com/ajax/en/)
+* [http://ajax.DynaTrace.com/ajax/en/](http://ajax.DynaTrace.com/ajax/en/)
 * Free and Premium versions
 * Works in Firefox and IE
 * See methods, with method arguments and their return values
@@ -77,7 +77,7 @@
 
 !SLIDE left
 
-# Dynatrace Cont.
+# DynaTrace Cont.
 
 * Low level instrumentation through a plugin
 * Capable of tracing through native methods
@@ -87,13 +87,13 @@
 
 # Configuration
 
-![Dynatrace Configuration](images/DT-Config.jpg)
+![DynaTrace Configuration](images/DT-Config.jpg)
 
 !SLIDE
 
 # Navigation
 
-![Dynatrace Sidebar](images/DT-FileMenu.jpg)
+![DynaTrace Sidebar](images/DT-FileMenu.jpg)
 
 !SLIDE
 
