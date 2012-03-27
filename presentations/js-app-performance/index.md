@@ -6,6 +6,7 @@
 
 #### Ryan Sylvestre
 #### rjsylvestre@gmail.com
+#### [http://ryansylvestre.github.com/presentations/js-app-performance/](http://ryansylvestre.github.com/presentations/js-app-performance/)
 
 !SLIDE left
 
@@ -73,7 +74,6 @@
 * Works in Firefox and IE
 * See methods, with method arguments and their return values
 * Calls are traced into the DOM so read/write execution can be easily optimized
-
 
 !SLIDE left
 
