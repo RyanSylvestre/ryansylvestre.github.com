@@ -47,7 +47,7 @@ Enable support for SASS in chrome://flags - > Enable Devtools Experiments
 Can use in-conjunction with error logging solution
 
 !slide
-< Image of otherTool >
+![Image](https://dl.dropboxusercontent.com/u/20455/errorTool.PNG)
 
 !slide
 ![Image](images/sourceMapper.png)
