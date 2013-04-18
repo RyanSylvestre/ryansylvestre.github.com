@@ -1,11 +1,14 @@
 Topics to cover
 ---------------
-- [ ] What it is
-- [ ] Why you would want to use it?
-- [ ] Browsers that support it
-- [ ] JS / Coffeescript / Sass / Less / etc etc
-- [ ] Looking up errors
-- [ ] Blurb about build processes
+- [X] What it is
+- [X] Why you would want to use it?
+- [X] Browsers that support it
+- [X] JS / Coffeescript / Sass / Less / etc etc
+- [X] Looking up errors
+- [X] Blurb about build processes
+- [ ] Link to my sourcemapper project
+- [ ] Image of error tool I created
+- [ ] Image of from -> to to illustrate
 - [ ] Links to interesting articles
 
 
