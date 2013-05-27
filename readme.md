@@ -1,6 +1,3 @@
-Create grunt new post
-Create new presentations repo
-Create new posts repo
+## TODO
 
-Sidebar nav
-Whole row link
+- Create grunt task for creating a new post
