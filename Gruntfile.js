@@ -4,14 +4,14 @@ module.exports = function(grunt) {
         uglify: {
             target: {
                 files: {
-                    'src/js/application.js': ['src/_assets/bootstrapjs/*.js', 'src/_assets/application.js']
+                    'js/application.js': ['_assets/bootstrapjs/*.js', '_assets/application.js']
                 }
             }
         },
         less: {
             target: {
                 files: {
-                    "src/css/main.css": "src/_assets/application.less"
+                    "css/main.css": "_assets/application.less"
                 }
             }
         },
@@ -24,11 +24,11 @@ module.exports = function(grunt) {
         },
         watch: {
             less: {
-                files: ['src/_assets/**/*.less'],
+                files: ['_assets/**/*.less'],
                 tasks: ['less']
             },
             uglify: {
-                files: ['src/_assets/**/*.js'],
+                files: ['_assets/**/*.js'],
                 tasks: ['uglify']
             }
         }

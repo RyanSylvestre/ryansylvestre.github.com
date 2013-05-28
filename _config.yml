@@ -1,4 +1,3 @@
-source: ./src
 markdown: rdiscount
 pygments: true
 permalink: /posts/:title

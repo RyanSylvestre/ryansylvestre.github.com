@@ -1,3 +1,0 @@
-[submodule "presentations"]
-	path = src/presentations
-	url = git://github.com/RyanSylvestre/talks.git
