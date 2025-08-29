@@ -1,3 +1,1 @@
-## TODO
-
-- Create grunt task for creating a new post
+Homepage for ryansylvestre.com
